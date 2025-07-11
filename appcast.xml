@@ -6,20 +6,30 @@
         <!-- Android Update (Forced for versions below 0.0.5) -->
         <item>
             <title>Version 0.0.5</title>
-            <description>تم إصلاح بعض المشاكل&#10;تحسينات عامة في أداء التطبيق&#10;تحديث نظام الخرائط ليوفر تجربة أفضل للمستخدم&#10;[Minimum supported app version: 0.0.4]</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=ma.agadir.marafiq" sparkle:version="0.0.5"
+            <description>
+                تم إصلاح بعض المشاكل&#10;
+                تحسينات عامة في أداء التطبيق&#10;
+                تحديث نظام الخرائط ليوفر تجربة أفضل للمستخدم&#10;
+                [Minimum supported app version: 0.0.5]
+            </description>
+            <enclosure
+                url="https://play.google.com/store/apps/details?id=ma.agadir.marafiq"
+                sparkle:version="0.0.5"
                 sparkle:os="android" />
         </item>
-
 
         <!-- iOS Update (Forced for versions below 0.0.5) -->
         <item>
             <title>Version 0.0.5</title>
-            <description>تم إصلاح بعض المشاكل&#10;تحسينات عامة في أداء التطبيق&#10;[:mav: 0.0.4]</description>
-            <enclosure url="https://apps.apple.com/ma/app/مرافق-جماعة-اكادير/id6747533129" sparkle:version="0.0.5"
+            <description>
+                تم إصلاح بعض المشاكل&#10;
+                تحسينات عامة في أداء التطبيق&#10;
+                [:mav: 0.0.5]
+            </description>
+            <enclosure
+                url="https://apps.apple.com/ma/app/مرافق-جماعة-اكادير/id6747533129"
+                sparkle:version="0.0.5"
                 sparkle:os="ios" />
         </item>
-
-
     </channel>
 </rss>
