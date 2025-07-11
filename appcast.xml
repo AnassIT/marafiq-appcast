@@ -9,7 +9,7 @@
             <description>
                 تم إصلاح بعض المشاكل&#10;
                 تحسينات عامة في أداء التطبيق&#10;
-                [Minimum supported app version: 0.0.5]
+                [Minimum supported app version: 0.0.4]
             </description>
             <enclosure url="https://play.google.com/store/apps/details?id=ma.agadir.marafiq" sparkle:version="0.0.5"
                 sparkle:os="android" />
@@ -22,7 +22,7 @@
             <description>
                 تم إصلاح بعض المشاكل&#10;
                 تحسينات عامة في أداء التطبيق&#10;
-                [:mav: 0.0.5]
+                [:mav: 0.0.4]
             </description>
             <enclosure url="https://apps.apple.com/ma/app/مرافق-جماعة-اكادير/id6747533129" sparkle:version="0.0.5"
                 sparkle:os="ios" />
