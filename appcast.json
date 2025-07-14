@@ -1,30 +1,19 @@
 {
-  "rss": {
-    "version": "2.0",
-    "xmlns:sparkle": "http://www.andymatuschak.org/xml-namespaces/sparkle",
     "minVersion": "0.0.5",
-    "channel": {
-      "title": "Debt Now App - Appcast",
-      "items": [
-        {
-          "title": "Version 0.0.5",
-          "description": "تم إصلاح بعض المشاكل\nتحسينات عامة في أداء التطبيق\nتحديث نظام الخرائط ليوفر تجربة أفضل للمستخدم\n",
-          "enclosure": {
-            "url": "https://play.google.com/store/apps/details?id=ma.agadir.marafiq",
-            "sparkle:version": "0.0.5",
-            "sparkle:os": "android"
-          }
-        },
-        {
-          "title": "Version 0.0.5",
-          "description": "تم إصلاح بعض المشاكل\nتحسينات عامة في أداء التطبيق\n",
-          "enclosure": {
-            "url": "https://apps.apple.com/ma/app/مرافق-جماعة-اكادير/id6747533129",
-            "sparkle:version": "0.0.5",
-            "sparkle:os": "ios"
-          }
-        }
-      ]
-    }
+    "title": "Debt Now App - Appcast",
+    "items": [
+      {
+        "platform": "android",
+        "version": "0.0.5",
+        "description": "تم إصلاح بعض المشاكل\nتحسينات عامة في أداء التطبيق\nتحديث نظام الخرائط ليوفر تجربة أفضل للمستخدم\n",
+        "url": "https://play.google.com/store/apps/details?id=ma.agadir.marafiq"
+      },
+      {
+        "platform": "ios",
+        "version": "0.0.5",
+        "description": "تم إصلاح بعض المشاكل\nتحسينات عامة في أداء التطبيق\n",
+        "url": "https://apps.apple.com/ma/app/مرافق-جماعة-اكادير/id6747533129"
+      }
+    ]
   }
-}
+  
